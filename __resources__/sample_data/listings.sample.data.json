@@ -1,0 +1,79 @@
+[
+    {
+        "images": [],
+        "item_name": "turon",
+        "description": "",
+        "price": 10,
+        "seller_id": "alcelbautista@gmail.com",
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "payment_methods": [
+            "cash",
+            "gcash"
+        ],
+        "categories": [
+            "food",
+            "fried"
+        ],
+        "likes": 76,
+        "rating": "3.4",
+        "date_listed": "12-12-21"
+    },
+    {
+        "images": [],
+        "item_name": "Monds Street Foods",
+        "description": "kikiam, fish ball, squid balls, kwek-kwek",
+        "price": 10,
+        "seller_id": "alcelbautista@gmail.com",
+        "transactions": [
+            "delivery",
+            "pickup"
+        ],
+        "payment_methods": [
+            "cash",
+            "gcash"
+        ],
+        "categories": [
+            "food",
+            "fried",
+            "street food"
+        ],
+        "likes": 76,
+        "rating": "3.4",
+        "date_listed": "12-12-21"
+    },
+    {
+        "images": [],
+        "item_name": "Jonah's Milk Tea",
+        "description": "Milk Tea size",
+        "price": 10,
+        "size": "vary",
+        "sizes": [
+            {
+                "small": {
+                    "price": 120
+                },
+                "medium": {
+                    "price": 140
+                }
+            }
+        ],
+        "seller_id": "lizmrnd@gmail.com",
+        "transactions": [
+            "pickup"
+        ],
+        "payment_methods": [
+            "cash",
+            "gcash"
+        ],
+        "categories": [
+            "drinks",
+            "milk tea"
+        ],
+        "likes": 76,
+        "rating": "3.4",
+        "date_listed": "12-12-21"
+    }
+]

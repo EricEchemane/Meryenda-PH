@@ -1,0 +1,65 @@
+[
+    {
+        "email": "alcelbautista@gmail.com",
+        "first_name": "alcel",
+        "last_name": "bautsita",
+        "store_name": "AB Store",
+        "messenger_name": "alcel bautista",
+        "facebook_link": "facebook.com/alcelbautista",
+        "contact_numbers": [
+            "09288772620"
+        ],
+        "store_hours_days": "Mon-Sat 2pm-8pm",
+        "profile_picture": "",
+        "location": {
+            "city": "muntinlupa city",
+            "barangay": "bayanan",
+            "subdivision": "",
+            "village": "",
+            "street": "",
+            "unit_house_no": ""
+        }
+    },
+    {
+        "email": "lizmrnd@gmail.com",
+        "first_name": "allaiza",
+        "last_name": "miranda",
+        "store_name": "miranda store",
+        "messenger_name": "allaiza miranda",
+        "facebook_link": "facebook.com/liz.mrnd",
+        "contact_numbers": [
+            "09288772620"
+        ],
+        "store_hours_days": "Mon-Sat 2pm-8pm",
+        "profile_picture": "",
+        "location": {
+            "city": "muntinlupa city",
+            "barangay": "alabang",
+            "subdivision": "",
+            "village": "",
+            "street": "",
+            "unit_house_no": ""
+        }
+    },
+    {
+        "email": "jamelvarela@gmail.com",
+        "first_name": "jamel",
+        "last_name": "varela",
+        "store_name": "varela store",
+        "messenger_name": "jamel varela",
+        "facebook_link": "facebook.com/jamel",
+        "contact_numbers": [
+            "09288772620"
+        ],
+        "store_hours_days": "Mon-Sat 2pm-8pm",
+        "profile_picture": "",
+        "location": {
+            "city": "muntinlupa city",
+            "barangay": "sucat",
+            "subdivision": "",
+            "village": "",
+            "street": "",
+            "unit_house_no": ""
+        }
+    }
+]
